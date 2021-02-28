@@ -26,7 +26,7 @@
     <div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-DJqxLXVLmZQ/YDUSY_s4QrI/AAAAAAAAiCA/o81UCOtlbkEGbHgPo0xWhkzYNg9gnte6QCLcBGAsYHQ/s900/bjjj.jpg" style="display: block; padding: 1em 0; text-align: laft; "><img alt="" border="2" height="200" data-original-height="100" data-original-width="50" src="https://1.bp.blogspot.com/-DJqxLXVLmZQ/YDUSY_s4QrI/AAAAAAAAiCA/o81UCOtlbkEGbHgPo0xWhkzYNg9gnte6QCLcBGAsYHQ/s320/bjjj.jpg"/></a></div><div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-q8CgqU3me24/YDYTYM_ZWdI/AAAAAAAAiE4/jIKeP2S15jY2arDpmeSQIRDTnsiQlm2VQCPcBGAsYHg/s2400/InShot_20210213_143022795.jpg" style="display: block; padding: 1em 0; text-align: left; "><img alt="" border="2" height="200" data-original-height="200" data-original-width="150" src="https://1.bp.blogspot.com/-q8CgqU3me24/YDYTYM_ZWdI/AAAAAAAAiE4/jIKeP2S15jY2arDpmeSQIRDTnsiQlm2VQCPcBGAsYHg/s320/InShot_20210213_143022795.jpg"/></a></div>
     <p style="color: blue;"><a href="https://www.instagram.com/__itz__bhanu__/"><button>Other Photos</button></a></p>
     <CENTER><a href=""></a></CENTER>
-	  <img src="https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif" alt="Computer man" style="width:480px;height:480px;">
+	  <img src="https://i.pinimg.com/originals/39/6d/8c/396d8cf19235b7b437d1067045a63b5a.gif" alt="Computer man" style="width:100px;height:100px;">
     <a href="singup page.html"> <button style="width: 150px; height: 75px;">Creat Account </button></a>
 
 
