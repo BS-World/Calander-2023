@@ -1,9 +1,6 @@
  <!DOCTYPE html>
 <html>
 <head>
-	<title>BS World</title><style> body {background-color: dodgerBlue;}
-  h1 {color: white; text-align: center;}
-  p {font-family: verdana; font-size: 20px} </style>
 </head>
 <body>
 	<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-oZja74H8JwM/YDUM8zobrYI/AAAAAAAAiB0/kkeqN97JWzskjrgWQ3zo3FDZpdF7O6vigCLcBGAsYHQ/s960/bss.jpg" style="display: block; padding: 1em 0; text-align: laft; "><img alt="" border="0" width="200" data-original-height="200" data-original-width="150" src="https://1.bp.blogspot.com/-oZja74H8JwM/YDUM8zobrYI/AAAAAAAAiB0/kkeqN97JWzskjrgWQ3zo3FDZpdF7O6vigCLcBGAsYHQ/s200/bss.jpg"/></a></div>
