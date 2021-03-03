@@ -4,7 +4,7 @@
 </head>
 <body>
 	<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-oZja74H8JwM/YDUM8zobrYI/AAAAAAAAiB0/kkeqN97JWzskjrgWQ3zo3FDZpdF7O6vigCLcBGAsYHQ/s960/bss.jpg" style="display: block; padding: 1em 0; text-align: laft; "><img alt="" border="0" width="200" data-original-height="200" data-original-width="150" src="https://1.bp.blogspot.com/-oZja74H8JwM/YDUM8zobrYI/AAAAAAAAiB0/kkeqN97JWzskjrgWQ3zo3FDZpdF7O6vigCLcBGAsYHQ/s200/bss.jpg"/></a></div>
-	<h1>BS World</h1>
+	<h1>BS World</h1><span class="mTLOB Szr5J coreSpriteVerifiedBadge " title="Verified">Verified</span>
 	<a href="https://www.instagram.com/__itz__bhanu__/"><button>Follow</button></a>
 	<a href="https://www.facebook.com/bhanu.biswas.10/"><button>Add Friend</button></a>
   <a href="https://www.youtube.com/channel/UCUhn614yQ4SxD9vdvzcP38Q"><button>SUBSCRIBE</button></a>
